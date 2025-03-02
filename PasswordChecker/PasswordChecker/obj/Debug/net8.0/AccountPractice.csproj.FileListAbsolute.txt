@@ -1,0 +1,14 @@
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\bin\Debug\net8.0\AccountPractice.exe
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\bin\Debug\net8.0\AccountPractice.deps.json
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\bin\Debug\net8.0\AccountPractice.runtimeconfig.json
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\bin\Debug\net8.0\AccountPractice.dll
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\bin\Debug\net8.0\AccountPractice.pdb
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\AccountPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\AccountPractice.AssemblyInfoInputs.cache
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\AccountPractice.AssemblyInfo.cs
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\AccountPractice.csproj.CoreCompileInputs.cache
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\AccountPractice.dll
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\refint\AccountPractice.dll
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\AccountPractice.pdb
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\AccountPractice.genruntimeconfig.cache
+C:\Users\manny\source\repos\Projects\PasswordChecker\PasswordChecker\obj\Debug\net8.0\ref\AccountPractice.dll
